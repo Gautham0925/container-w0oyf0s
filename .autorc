@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Gautham0925",
+  "repo": "container-w0oyf0s",
+  "name": "Gautham0925",
+  "email": "gautham25200409@gmail.com",
+}
